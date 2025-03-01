@@ -140,3 +140,4 @@ clear
 mkdir website
 ls --color=auto
 ls --color=auto
+cd website
