@@ -107,3 +107,5 @@ ls --color=auto
 more package.json
 clear
 ls --color=auto
+__vsc_prompt_cmd_original
+cd node_modules
